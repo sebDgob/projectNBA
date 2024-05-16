@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #007bff; /* Blu */
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -17,6 +17,9 @@ main {
 
 .content {
     margin-bottom: 30px;
+    color: #333; /* Nero */
+    font-size: 18px;
+    line-height: 1.5;
 }
 
 .images {
@@ -38,8 +41,9 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #007bff; /* Blu */
     color: #fff;
     padding: 20px;
     text-align: center;
+    font-style: italic;
 }
